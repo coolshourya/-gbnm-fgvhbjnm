@@ -1,0 +1,16 @@
+
+h1
+{
+	color: rgb(162, 255, 0); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url(bg1.jpg);
+	background-size: cover;
+}
+
+#Mycanvas{
+ background-color: ivory;
+ border-width: 4px;
+ border-style: dashed;
+}
